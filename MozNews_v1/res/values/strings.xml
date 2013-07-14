@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moz News</string>
+    <string name="title_article_detail">article Detail</string>
+    <string name="share">Divulge</string>
+    <string name="about">About</string>
+    <string name="refresh">Recarregar</string>
+
+</resources>

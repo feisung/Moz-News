@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/factory"
+        android:orderInCategory="100"
+        android:showAsAction="collapseActionView"
+        android:title="@string/about"/>
+        <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/redo"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/refresh"/>
+</menu>
